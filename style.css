@@ -1688,16 +1688,4 @@ button,
 
 }
 
-@media (max-width: 1024px) {
-  .menu-cards {
-    grid-template-columns: repeat(3, 1fr);
-  }
 
-  .popular-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-body {
-  overflow-x: hidden;
-}
